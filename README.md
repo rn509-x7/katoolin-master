@@ -13,7 +13,7 @@ Instal semua alat Kali linux secara otomatis
 
 # Installation
 - sudo su
-- git clone https://github.com/rn509/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+- git clone https://github.com/rn509/katoolin-master && cp katoolin/katoolin.py /usr/bin/katoolin
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
